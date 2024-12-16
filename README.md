@@ -1,6 +1,6 @@
  <header>
 
- # Introduction to Terraform
+# Introduction to Terraform
 
  _Introduction to basic Terraform syntax._
 
@@ -13,7 +13,8 @@ Terraform is one of the most popular infrastructure as code (IaC) tools in moder
 - **Who this is for**: Cloud engineers with little to no prior experience with Terraform.
 - **What you will learn**: The basics of Terraform syntax and implementation
 - **What you will build**: An Azure resource group, network watcher, virtual network, and subnet.
-- **Prerequisites**: An Azure tenant and subscription.
+- **Prerequisites**: An Azure tenant and subscription to which you can deploy resources (you must have at least the Contributor role on the subscription).
+- **Prerequisites**: An Azure tenant and subscription to which you can deploy resources (you must have at least the Contributor role on the subscription).
 
 In this course, you will:
 
@@ -28,9 +29,11 @@ In this course, you will:
 
 1. Right-click **Start course** and open the link in a new tab
 2. In the new tab, most of the prompts will automatically fill in.
-  - For owner, choose your personal account or an organization to host the repository.
-  - We recommend creating a public repository, as private repositories will [use Actions minutes](https://docs.github.com/en/billing/managing-billing-for-github-actions/about-billing-for-github-actions).
-  - Scroll down and click the **Create repository** button at the bottom of the form.
+
+- For owner, choose your personal account or an organization to host the repository.
+- We recommend creating a public repository, as private repositories will [use Actions minutes](https://docs.github.com/en/billing/managing-billing-for-github-actions/about-billing-for-github-actions).
+- Scroll down and click the **Create repository** button at the bottom of the form.
+
 3. After your new repository is created, wait about 20 seconds, then refresh the page. Follow the step-by-step instructions in the new repository's README.
 
  <footer>

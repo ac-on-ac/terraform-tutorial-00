@@ -24,7 +24,7 @@ In this course, you will:
 
 ### How to start this course
 
-[![start-course](https://user-images.githubusercontent.com/1221423/235727646-4a590299-ffe5-480d-8cd5-8194ea184546.svg)](https://github.com/new?template_owner=skills&template_name=hello-github-actions&owner=%40me&name=skills-hello-github-actions&description=My+clone+repository&visibility=public)
+[![start-course](https://user-images.githubusercontent.com/1221423/235727646-4a590299-ffe5-480d-8cd5-8194ea184546.svg)](https://github.com/new?template_owner=ac-on-ac&template_name=terraform-tutorial-00&owner=%40me&name=terraform-tutorial-00&description=My+clone+repository&visibility=public)
 
 1. Right-click **Start course** and open the link in a new tab
 2. In the new tab, most of the prompts will automatically fill in.
